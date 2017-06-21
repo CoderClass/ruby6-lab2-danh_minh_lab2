@@ -28,6 +28,7 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.1.0'
 end
 gem 'httparty'
+gem 'faker'
 
 # Use ActiveModel has_secure_password
 # use platforms: [:ruby] to make it work for windows
